@@ -11,14 +11,18 @@ body{
     font-size: 10px;
 }
 
-p {
+.pa2 {
     color: #0f4288;
 }
 
-.p1 {
+.pa1 {
     background-color: #0f4288;
 }
 
 .b1 {
     background-color: #1566ad;
+}
+
+.b2 {
+    max-height: 80%
 }
