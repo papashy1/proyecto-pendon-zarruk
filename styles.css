@@ -1,0 +1,23 @@
+/* .bg-image {
+    background-image: url("banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    background-position-x: center;
+} */
+
+body{
+    background-color: #e1e8f0;
+}
+
+p {
+    color: #0f4288;
+}
+
+.p1 {
+    background-color: #0f4288;
+}
+
+.b1 {
+    background-color: #1566ad;
+}
